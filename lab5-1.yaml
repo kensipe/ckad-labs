@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: webapp
+  labels:
+    name: webapp
+spec:
+  containers:
+  - name: webapp
+    image: nginx
+    ports:
+      - containerPort: 80
+    readinessProbe:
+      httpGet:
+        path: /
+        port: 8080

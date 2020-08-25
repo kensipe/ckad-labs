@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: lab2-1
+spec:
+  containers:
+  - image: foo
+    name: nginx
