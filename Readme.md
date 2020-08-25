@@ -37,4 +37,4 @@ Common `alias k=kubectl`
 ## Tips and References
 
 * [Tips](tips.md)
-* [Bookmarks](bookmarks.html)
+* [Bookmarks](bookmarks.md)
