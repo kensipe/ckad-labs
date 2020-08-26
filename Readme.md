@@ -21,7 +21,7 @@ Common `alias k=kubectl`
 
 ### Lab 2: [Core Concepts](lab2.md)
 
-### Lab 3: [Configuration (ENV, Configs, Secrets, Tolerations and Affinity)]((lab3.md))
+### Lab 3: [Configuration (ENV, Configs, Secrets, Tolerations and Affinity)](lab3.md)
 
 ### Lab 4: [Pod Design (Labels, Deployments, Jobs and Crons)](lab4.md)
 
