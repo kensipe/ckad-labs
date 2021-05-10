@@ -5,15 +5,14 @@ These labs support training necessary for passing the Certified Kubernetes Applc
 ## Requirements
 
 * git
-* Kubernetes 1.15+ cluster
-  * [Kubernetes in Docker (KinD)](https://github.com/kubernetes-sigs/kind) **note:** v0.7.0 used for lab creation
+* Kubernetes 1.20+ cluster
+  * [Kubernetes in Docker (KinD)](https://github.com/kubernetes-sigs/kind) **note:** v0.10.0 used for lab creation
   * [Minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
 * curl or httpie
 
 ## Notes:
 
 Common `alias k=kubectl`
-
 
 ## Labs
 
@@ -38,3 +37,8 @@ Common `alias k=kubectl`
 
 * [Tips](tips.md)
 * [Bookmarks](bookmarks.md)
+
+ <!-- todos -->
+<!-- ### Lab 8: [Final Lab](lab8.md)
+* add a lab for 7 to have 1 container write to a location and 2 container to read
+-->
