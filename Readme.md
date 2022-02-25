@@ -38,7 +38,55 @@ Common `alias k=kubectl`
 * [Tips](tips.md)
 * [Bookmarks](bookmarks.md)
 
- <!-- todos -->
+## Updates since Sept 2021 Test Changes
+
+### Helm
+
+- understand Helm fundamentals
+- install a release
+- understand what a Helm release is
+- update a Helm release
+- list installed helm releases
+- identify installed helm releases with problems
+- identify chart values to customize
+- install a Helm release specifying values using the --set flag
+- uninstall a Helm release
+
+### Docker
+
+- create a simple Dockerfile using: FROM and COPY
+- build an image with: docker build -t <name> .
+- tag (and maybe push) image
+- save image to a .tar file using: docker save
+
+### Canary Deployment
+
+- a service sends traffic to 2 deployments: 1) stable 2) canary.  Out
+of the total number of desired pods, make sure the stable deployment
+runs X pods, the canary deployment runs Y pods, and the service sends
+traffic to both.
+
+### Custom Resource Definitions (CRD)
+
+- discover and use resources that extend Kubernetes
+- know how to identify and use them.
+
+<!-- todos -->
 <!-- ### Lab 8: [Final Lab](lab8.md)
 * add a lab for 7 to have 1 container write to a location and 2 container to read
+
+** update for Sept 2021 test updates
+I passed the CKAD test on Friday.  Your virtual workshop was helpful.
+Just wanted to pass along some notes about the September 2021 exam
+updates.
+
+There are a number of items added to the curriculum, but the only ones
+I noticed on the test are: Helm, Docker, and Canary Deployments.
+
+Understand API deprecations
+- this is mentioned in the curriculum.  I read about it.  I did not
+see it on the test and I'm not sure how you would test it.
+
+Understand authentication, authorization and admission control (CKA)
+- did not see it on my test
 -->
