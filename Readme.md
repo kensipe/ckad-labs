@@ -6,7 +6,7 @@ These labs support training necessary for passing the Certified Kubernetes Applc
 
 * git
 * Kubernetes 1.20+ cluster
-  * [Kubernetes in Docker (KinD)](https://github.com/kubernetes-sigs/kind) **note:** v0.10.0 used for lab creation
+  * [Kubernetes in Docker (KinD)](https://github.com/kubernetes-sigs/kind) **note:** v0.12.0 used for lab creation
   * [Minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
 * curl or httpie
 
@@ -37,6 +37,8 @@ Common `alias k=kubectl`
 
 * [Tips](tips.md)
 * [Bookmarks](bookmarks.md)
+
+The bookmarks are a handy reference, however the latest changes to the test do not allow for pre-existing bookmarks to be used.
 
 ## Updates since Sept 2021 Test Changes
 
