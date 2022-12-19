@@ -73,6 +73,12 @@ traffic to both.
 - discover and use resources that extend Kubernetes
 - know how to identify and use them.
 
+## Thanks
+
+Thanks to those that help to keep this project up to date.
+
+- Curtis Hamm @SliderCO-007
+
 <!-- todos -->
 <!-- ### Lab 8: [Final Lab](lab8.md)
 * add a lab for 7 to have 1 container write to a location and 2 container to read
