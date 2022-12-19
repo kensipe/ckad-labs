@@ -77,7 +77,7 @@ traffic to both.
 
 Thanks to those that help to keep this project up to date.
 
-- Curtis Hamm @SliderCO-007
+- Curtis Hamm [@SliderCO-007](https://github.com/SliderCO-007)
 
 <!-- todos -->
 <!-- ### Lab 8: [Final Lab](lab8.md)
