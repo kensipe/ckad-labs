@@ -45,7 +45,7 @@ Which resources are namespaced? and which are cluster scoped?
 
 For cluster scoped: `k api-resources --namespaced=false`
 
-What is the shortname for `PodSecurityPolicy`?
+What is the shortname for `ServiceAccount`?
 
 5. Explaining Resources
 
